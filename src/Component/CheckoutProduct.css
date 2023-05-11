@@ -1,0 +1,28 @@
+.content {
+  margin: 10px;
+  padding: 10px;
+  background-color: #fff;
+}
+.contenet h4 {
+  font-size: 12px;
+  margin-top: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+.small {
+  margin-left: 10px;
+  padding-left: 10px;
+}
+.hidden {
+  display: none;
+}
+.btn {
+  background-color: #ffd814;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.headers,
+.prices,
+.image {
+  margin-left: 20px;
+}

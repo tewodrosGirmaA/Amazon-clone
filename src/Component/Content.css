@@ -1,0 +1,32 @@
+.content img {
+  width: 300px;
+  height: 300px;
+  padding: 15px;
+}
+.content {
+  margin: 10px;
+  padding: 10px;
+  background-color: #fff;
+}
+.contenet h4 {
+  font-size: 12px;
+  margin-top: 10px;
+}
+.price-strong {
+  display: none;
+}
+.hidden {
+  display: flex;
+}
+
+@media (max-width: 866px) {
+  .content {
+    display: none;
+  }
+}
+
+@media (min-width: 1401px) {
+  .content a {
+    font-size: 24px;
+  }
+}
